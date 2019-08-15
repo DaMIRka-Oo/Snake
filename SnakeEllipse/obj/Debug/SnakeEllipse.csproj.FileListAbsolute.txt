@@ -1,0 +1,15 @@
+C:\Users\sulee\source\repos\SnakeEllipse\SnakeEllipse\bin\Debug\SnakeEllipse.exe.config
+C:\Users\sulee\source\repos\SnakeEllipse\SnakeEllipse\bin\Debug\SnakeEllipse.exe
+C:\Users\sulee\source\repos\SnakeEllipse\SnakeEllipse\bin\Debug\SnakeEllipse.pdb
+C:\Users\sulee\source\repos\SnakeEllipse\SnakeEllipse\obj\Debug\SnakeEllipse.csprojAssemblyReference.cache
+C:\Users\sulee\source\repos\SnakeEllipse\SnakeEllipse\obj\Debug\MainWindow.g.cs
+C:\Users\sulee\source\repos\SnakeEllipse\SnakeEllipse\obj\Debug\App.g.cs
+C:\Users\sulee\source\repos\SnakeEllipse\SnakeEllipse\obj\Debug\SnakeEllipse_MarkupCompile.cache
+C:\Users\sulee\source\repos\SnakeEllipse\SnakeEllipse\obj\Debug\SnakeEllipse_MarkupCompile.lref
+C:\Users\sulee\source\repos\SnakeEllipse\SnakeEllipse\obj\Debug\MainWindow.baml
+C:\Users\sulee\source\repos\SnakeEllipse\SnakeEllipse\obj\Debug\SnakeEllipse.g.resources
+C:\Users\sulee\source\repos\SnakeEllipse\SnakeEllipse\obj\Debug\SnakeEllipse.Properties.Resources.resources
+C:\Users\sulee\source\repos\SnakeEllipse\SnakeEllipse\obj\Debug\SnakeEllipse.csproj.GenerateResource.cache
+C:\Users\sulee\source\repos\SnakeEllipse\SnakeEllipse\obj\Debug\SnakeEllipse.csproj.CoreCompileInputs.cache
+C:\Users\sulee\source\repos\SnakeEllipse\SnakeEllipse\obj\Debug\SnakeEllipse.exe
+C:\Users\sulee\source\repos\SnakeEllipse\SnakeEllipse\obj\Debug\SnakeEllipse.pdb
